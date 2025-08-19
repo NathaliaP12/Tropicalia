@@ -13,7 +13,6 @@
 
 <body>
     <header class=" p-5">
-
         <nav class="container d-flex justify-content-between align-items-center">
             <img src="img/logo.png" alt="Logotipo da Tropicália" class="nav-img " loading="lazy">
             <ul class="nav mt-5">
@@ -23,13 +22,10 @@
             </ul>          
         </nav>
        
-    </header>
-
-
-    <main class="container my-5">
-
-        <section id="inicio" class="my-5">
-            <div class="inicio-fundo d-flex justify-content-between align-items-center">
+   </header>
+ <main class="container my-5">
+    <section id="inicio" class="my-5">
+          <div class="inicio-fundo d-flex justify-content-between align-items-center">
                 <div class="esquerda-conteudo">
                     <h1 class="display-4 text-white fst-italic fw-bold">Boas-vindas a</h1>
                     <img src="img/logo-2.png" alt="Logotipo secundário da Tropicália" class="mb-3" width="563"
@@ -38,10 +34,8 @@
                         class="btn btn-primary btn-lg botao-inicio fw-semibold">Quero
                         conhecer!</a>
                 </div>
-
             </div>
         </section>
-
         <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
             <div class="container d-flex align-items-center ">
                   <div class="col-5">
@@ -55,11 +49,11 @@
             </div>
         </section>
 
-        <section id="galeria">
+  <section id="galeria">
             <h2 class="text-center pt-5">Galeria</h2>
             <div class="container p-3 mt-3 fundo-galeria ">
 
-                <div class="row justify-content-md-center">
+ <div class="row justify-content-md-center">
                     <div class="col-md-4">
                         <img src="img/lossy-page1-640px-Jorge_Ben_e_o_Trio_Mocotó_no_Teatro_da_Lagoa,_1971.tif.jpg"
                             class="img-fluid rounded-5" loading="lazy">
@@ -72,7 +66,7 @@
             </div>
         </section>
 
-        <section id="contato">
+<section id="contato">
             <div class="container p-5 d-flex justify-content-center">
                 <div class="col-md-8 col-lg-10 rounded-5 formulario"> <!-- Caixa do formulário com 60% de largura -->
                     <h2 class="mb-3">Entre em contato</h2>
