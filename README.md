@@ -28,13 +28,12 @@
                 <div id="opcoes-acessibilidade" class="opcoes-acessibilidade apresenta-lista ">
                 <button id="aumentar-fonte" class="btn btn-primary fw-bold">A +</button>
                 <button id="diminuir-fonte" class="btn btn-primary fw-bold">A -</button>
+                <button id="diminuir-fonte" class="btn btn-primary fw-bold"> <i class="bi bi - shedows"></i></button>
 
  </div>
           </div>
         </nav>
  </header>
-
-
  <main class="container my-5">
 
   <section id="inicio" class="my-5">
