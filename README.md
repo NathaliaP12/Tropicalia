@@ -114,9 +114,9 @@
     </main>
     <footer class="text-center p-3 fst-italic">
         <p>Acesse nossas redes:</p>
-        <i class="bi bi-whatsapp"></i>
-        <i class="bi bi-instagram"></i>
-        <i class="bi bi-tiktok"></i>
+        <i class="bi (11)89374-8290"></i>
+        <i class="bi Alura"></i>
+        <i class="bi Tiktok"></i>
         <p class="mt-3">Desenvolvido por Nathalia Pereira. Projeto fictício sem fins comerciais.</p>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/4.0.9/scrollreveal.js"></script>
