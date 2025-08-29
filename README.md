@@ -13,7 +13,7 @@
 
 <body>
     <header class=" p-5">
-        <nav class="container d-flex justify-content-between align-items-center" >
+  <nav class="container d-flex justify-content-between align-items-center" >
             <img src="img/logo.png" class="nav-img " loading="lazy">
             <ul class="nav mt-5">
                 <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
@@ -29,9 +29,10 @@
                 </div>
             </div>
         </nav>
-          </header>
+       
+ </header>
     <main class="container my-5">
-       <section id="inicio" class="my-5">
+        <section id="inicio" class="my-5">
             <div class="inicio-fundo d-flex justify-content-between align-items-center">
                 <div class="esquerda-conteudo">
                     <h1 class="display-4 text-white fst-italic fw-bold">Boas-vindas a</h1>
@@ -42,9 +43,9 @@
                         conhecer!</a>
                 </div>
                 <img src="img/lossy-page1-640px-Os_Mutantes.tif (1).png" alt="A imagem apresenta o grupo musical Os mutantes, sao tres pessoas cantando em um microfone" title="Os mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
-
-   </div>      </section>
-        <section id="tropicalia" class="my-5 pt-6 secao-tropicalia" tabindex="0" aria-label="Seção explicativa sobre a tropicália">
+      </div>
+        </section>
+     <section id="tropicalia" class="my-5 pt-6 secao-tropicalia" tabindex="0" aria-label="Seção explicativa sobre a tropicália">
             <div class="container d-flex align-items-center ">
                 <div class="col-4 d-flex justify-content-center ">
                     <img src="img/image (1).png" class="rounded-pill" width="273" height="331" loading="lazy">
@@ -59,10 +60,12 @@
                 </div>
             </div>
         </section>
+
   <section id="galeria" tabindex="0" aria-label="Seção de galeria de imagens">
             <h2 class="text-center pt-5">Galeria</h2>
             <div class="container p-3 mt-3 fundo-galeria ">
-    <div class="row justify-content-md-center">
+
+   <div class="row justify-content-md-center">
                     <div class="col-md-4">
                         <img src="img/lossy-page1-640px-Jorge_Ben_e_o_Trio_Mocotó_no_Teatro_da_Lagoa,_1971.tif.jpg"
                             class="img-fluid rounded-5" loading="lazy">
@@ -83,7 +86,7 @@
                 </div>
              </div>
         </section>
-    <section id="contato">
+ <section id="contato">
             <div class="container p-5 d-flex justify-content-center">
                 <div class="col-md-8 col-lg-10 rounded-5 formulario"> <!-- Caixa do formulário com 60% de largura -->
                     <h2 class="mb-3">Entre em contato</h2>
@@ -114,9 +117,9 @@
     </main>
     <footer class="text-center p-3 fst-italic">
         <p>Acesse nossas redes:</p>
-        <i class="bi (11)89374-8290"></i>
-        <i class="bi Alura"></i>
-        <i class="bi Tiktok"></i>
+        <i class="bi bi-whatsapp"></i>
+        <i class="bi bi-instagram"></i>
+        <i class="bi bi-tiktok"></i>
         <p class="mt-3">Desenvolvido por Nathalia Pereira. Projeto fictício sem fins comerciais.</p>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/4.0.9/scrollreveal.js"></script>
